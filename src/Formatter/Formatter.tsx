@@ -1,10 +1,11 @@
-import React, { useState, useCallback } from "react";
+import React, { useState, useCallback, useEffect } from "react";
 import "./Formatter.scss";
 import { TextBlock } from "../TextBlock/TextBlock";
 import { format } from "../common/format";
+import { SAMPLE_INPUT } from "../common/util";
 
 export const Formatter = () => {
-  const [input, setInput] = useState("");
+  const [input, setInput] = useState(SAMPLE_INPUT);
   const [output, setOutput] = useState("");
   const handleInputChange = useCallback(
     (event: React.ChangeEvent<HTMLTextAreaElement>) => {
@@ -14,6 +15,10 @@ export const Formatter = () => {
     },
     []
   );
+
+  useEffect(() => {
+    setOutput(format(input));
+  }, []);
 
   return (
     <div className="formatter">

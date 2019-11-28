@@ -1,3 +1,6 @@
+// TODO: prevent the formated curl been re-fromated
+// local storage the previous result 
+
 import React from "react";
 import "./App.scss";
 import { Formatter } from "./Formatter/Formatter";
