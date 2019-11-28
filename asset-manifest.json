@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/format-copied-curl/static/css/main.45e8e369.chunk.css",
+    "main.css": "/format-copied-curl/static/css/main.5be09dd0.chunk.css",
     "main.js": "/format-copied-curl/static/js/main.afd97cf6.chunk.js",
     "main.js.map": "/format-copied-curl/static/js/main.afd97cf6.chunk.js.map",
     "runtime-main.js": "/format-copied-curl/static/js/runtime-main.586bef80.js",
@@ -8,14 +8,14 @@
     "static/js/2.dd435ffb.chunk.js": "/format-copied-curl/static/js/2.dd435ffb.chunk.js",
     "static/js/2.dd435ffb.chunk.js.map": "/format-copied-curl/static/js/2.dd435ffb.chunk.js.map",
     "index.html": "/format-copied-curl/index.html",
-    "precache-manifest.33e4c9e3add868665109f7c9bb6bc02b.js": "/format-copied-curl/precache-manifest.33e4c9e3add868665109f7c9bb6bc02b.js",
+    "precache-manifest.72b78e31d1726729ee8ce319d430f4ea.js": "/format-copied-curl/precache-manifest.72b78e31d1726729ee8ce319d430f4ea.js",
     "service-worker.js": "/format-copied-curl/service-worker.js",
-    "static/css/main.45e8e369.chunk.css.map": "/format-copied-curl/static/css/main.45e8e369.chunk.css.map"
+    "static/css/main.5be09dd0.chunk.css.map": "/format-copied-curl/static/css/main.5be09dd0.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.586bef80.js",
     "static/js/2.dd435ffb.chunk.js",
-    "static/css/main.45e8e369.chunk.css",
+    "static/css/main.5be09dd0.chunk.css",
     "static/js/main.afd97cf6.chunk.js"
   ]
 }
