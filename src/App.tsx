@@ -1,5 +1,5 @@
 // TODO: prevent the formated curl been re-fromated
-// local storage the previous result 
+// local storage the previous result
 
 import React from "react";
 import "./App.scss";
@@ -18,6 +18,12 @@ export const App = () => {
             rel="noopener noreferrer"
           >
             curl
+          </a>
+          <a className="github-badge" href="https://github.com/wayou/format-copied-curl">
+            <img
+              alt="GitHub stars"
+              src="https://img.shields.io/github/stars/wayou/format-copied-curl?style=social"
+            ></img>
           </a>
         </h3>
       </header>
