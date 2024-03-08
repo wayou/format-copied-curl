@@ -1,3 +1,4 @@
 # format-copied-curl
 
+
 Simply it's a curl prettier, for the command itself, not the curl result, which is known as `-i` option.
